@@ -3,7 +3,7 @@
     <div>
       <layout-visual
         title="NUXT SAMPLE SITE DEMO"
-        message="お知らせやメニューをmicroCMSを導入したDEMOサイトになります。"
+        message="microCMSを導入したDEMOサイトになります。"
       />
       <div class="w-full md:max-w-3xl mx-auto pt-20 px-6 md:px-0">
         <base-heading> MdN Cafeのおすすめメニュー </base-heading>
